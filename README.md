@@ -9,7 +9,7 @@ Unity research project for investigating human-robot collaboration and trust in 
 
 This project was built using Unity version 2022.3.54f1.
 
-This project requires the Microsoft Mixed Reality Toolkit 3; instructions for installation into your project can be found [here]([https://github.com/labstreaminglayer/App-LabRecorder](https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk3-overview/getting-started/setting-up/setup-new-project).
+This project requires the Microsoft Mixed Reality Toolkit 3; instructions for installation into your project can be found [here](https://learn.microsoft.com/en-us/windows/mixed-reality/mrtk-unity/mrtk3-overview/getting-started/setting-up/setup-new-project).
 
 ## Task
 
